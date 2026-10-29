@@ -175,3 +175,8 @@ cython_debug/
 
 # Claude Code
 CLAUDE.md
+
+# Local environments, dependencies and coverage output
+.venv/
+node_modules/
+coverage/
